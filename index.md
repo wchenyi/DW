@@ -9,10 +9,12 @@
       <a href="https://musetransfer.com/s/nzln2lirr" align="left">
     <img src="https://cdn.pixabay.com/photo/2013/07/13/01/16/download-155424_1280.png" width="100" height="65">
     </a>
-    <div style="color:#026EFE">
+    
+</div>
+<div style="color:#026EFE">
      <h3>Windows10/11</h3>
     </div>
-    <div>
+ <div>
      <a href="https://musetransfer.com/s/nzln2lirr">
      <img src="https://v2rayn.org/wp-content/uploads/2022/06/1656267566-v2rayN-use-Notify-Icon-1.jpg" width="100" height="100"><br>
      </a>
@@ -20,6 +22,3 @@
      <img src="https://cdn.pixabay.com/photo/2013/07/13/01/16/download-155424_1280.png" width="100" height="65">
     </a>
 </div>
-
-</div>
-
